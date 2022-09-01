@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecieveStream", "RecieveStream.csproj", "{58FA1CAD-724D-4172-AC68-A06DAF35239A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FA1CAD-724D-4172-AC68-A06DAF35239A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FA1CAD-724D-4172-AC68-A06DAF35239A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FA1CAD-724D-4172-AC68-A06DAF35239A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FA1CAD-724D-4172-AC68-A06DAF35239A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E19ECB7B-8794-4685-9773-8AD6899D6B3E}
+	EndGlobalSection
+EndGlobal
